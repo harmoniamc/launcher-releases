@@ -15,6 +15,6 @@
 
 ## Наші мережі <br>
 Вебсайт        [www.harmoniya.net](https://www.harmoniya.net) <br>
-Діскорд север  [discord.gg](https://discord.gg/6mRttKrWwc) <br>
-Телеграм канал [telegram.com](https://t.me/harmoniyamc) <br>
+Діскорд север  [discord.gg](https://discord.harmoniya.net) <br>
+Телеграм канал [telegram.com](https://telegram.harmoniya.net) <br>
 Твіттер        [twitter.com](https://twitter.com/harmoniyanet) <br>
