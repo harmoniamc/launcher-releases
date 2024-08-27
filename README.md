@@ -1,9 +1,9 @@
 # Releases of Harmoniya's Minecraft Launcher
 
-![GitHub Release](https://img.shields.io/github/v/release/harmoniamc/launcher-releases)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/harmoniamc/launcher-releases/total)
-![Discord](https://img.shields.io/discord/1167897268318384170)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.harmoniya.net)
+![GitHub Release](https://img.shields.io/github/v/release/harmoniamc/launcher-releases?logo=rocket&logoColor=fff)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/harmoniamc/launcher-releases/total?logo=fireship&logoColor=fff)
+![Discord](https://img.shields.io/discord/1167897268318384170?logo=discord&logoColor=fff)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.harmoniya.net&logo=circle&logoColor=fff)
 
 **Harmoniya** - комплекс українських модових майнкрафт серверів. <br> <br>
 Цей репозиторій включає в себе список релізів лаунчера <br>
